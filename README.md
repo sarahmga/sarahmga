@@ -1,7 +1,5 @@
-<h1 align="center">hello!! meu nome é Sarah Almeida ✨</h1>
-<h3 align="center">uma estudante de Ciência de Dados</h3>
+![Image](https://github.com/user-attachments/assets/a8d79460-b01a-4316-99fd-4d90b83071e5)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahmga&label=Profile%20views&color=0e75b6&style=flat" alt="sarahmga" /> </p>
 
 - 🌱 aprendendo: **Linguagem C**
 
