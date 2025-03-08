@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/a8d79460-b01a-4316-99fd-4d90b83071e5)![Image](https://github.com/user-attachments/assets/b01260a8-c732-41ea-ab3e-5e675cca6383)
+![Image](https://github.com/user-attachments/assets/e4ecafe6-e248-481f-bda9-93c3c5f3bb96)  <img src = "https://media.tenor.com/3edDaF1Idm0AAAAM/bunny-cute.gif" width = "220" height= "200">
 
 
 - 🌱 aprendendo: **Linguagem C**
