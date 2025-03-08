@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/e4ecafe6-e248-481f-bda9-93c3c5f3bb96)  <img src = "https://media.tenor.com/3edDaF1Idm0AAAAM/bunny-cute.gif" width = "220" height= "200">
+![Image](https://github.com/user-attachments/assets/e4ecafe6-e248-481f-bda9-93c3c5f3bb96)<img src = "https://media.tenor.com/3edDaF1Idm0AAAAM/bunny-cute.gif" width = "210" height= "190">
 
 
 - 🌱 aprendendo: **Linguagem C**
