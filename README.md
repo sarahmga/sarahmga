@@ -9,8 +9,7 @@
 
 - 💌 contato: **sarahmgalmeida@gmail.com**
 
-- 🎀 curiosidade: **sou desenhista digital e faço Design de Produto também!**
-
+- 🎀 curiosidade: **sou desenhista digital e to aprendendo a andar de patins..**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
