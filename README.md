@@ -1,16 +1,16 @@
 ![Image](https://github.com/user-attachments/assets/e4ecafe6-e248-481f-bda9-93c3c5f3bb96)<img src = "https://media.tenor.com/3edDaF1Idm0AAAAM/bunny-cute.gif" width = "210" height= "190">
 
 
-- 🌱 aprendendo: **Linguagem C e Python**
+- 🌱 aprendendo: **Python**, **Figma**, **Machine Learning** & **Data Science**
 
 
-- 🌠objetivos: **Dev Full-Stack** **Cientista de Dados**
+- 🌠objetivos: **Cientista de Dados** & **UX Designer**
 
 - 📃 idiomas: **português nativo, inglês avançado**
 
 - 💌 contato: **sarahmgalmeida@gmail.com**
 
-- 🎀 curiosidade: **sou desenhista digital e to aprendendo a andar de patins..**
+- 🎀 curiosidade: **sou desenhista digital e adoro pequenos roedores**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
